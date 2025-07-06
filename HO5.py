@@ -828,10 +828,10 @@ else:
     st.sidebar.markdown("---")
     st.sidebar.markdown(f"""
         **Acknowledgements:** Special thanks to 
-        - Dr. Anuwat Supachutikul
-        - Dr. Kongkiat Kespetch
-        - Dr. Piyawan Limpanyalert
-        - Prm. Poramin Weerananthawat
+        - Anuwat Supachutikul
+        - Kongkiat Kespetch
+        - Piyawan Limpanyalert
+        - Poramin Weerananthawat
         - Asst. Prof. Dr. Niwes Kulwong (Advisor)
 
         for their initiative, contributions, support, and inspiration, which were foundational to the development of this tool.
