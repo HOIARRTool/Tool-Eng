@@ -828,6 +828,7 @@ else:
     st.sidebar.markdown("---")
     st.sidebar.markdown(f"""
         **Acknowledgements:** Special thanks to 
+        - Prof. Shin Ushiro
         - Anuwat Supachutikul
         - Kongkiat Kespetch
         - Piyawan Limpanyalert
